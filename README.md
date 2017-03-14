@@ -1,2 +1,4 @@
 # blogtest
-want to see how blogging could be done
+
+Following the steps from here: https://pages.github.com/
+
